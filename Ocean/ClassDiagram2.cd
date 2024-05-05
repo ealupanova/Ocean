@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Creator">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>creator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fish">
+    <Position X="2.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAgAQAAAAACAAEAAEACoAAAACACAAAIiEAAAIFJAI=</HashCode>
+      <FileName>fish.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ocean">
+    <Position X="11.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAQAAAACAAAAABAAIAAAIAAAQQEAIAABIAAgBGCg=</HashCode>
+      <FileName>ocean.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Plankton">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBgAAAEAAACAAEAAEECgAAAAAACAAAICAAAAIFAAA=</HashCode>
+      <FileName>plankton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReadSettings">
+    <Position X="13.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAEAAQAAAAA=</HashCode>
+      <FileName>read_settings.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shark">
+    <Position X="5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAgAQAAAAACAAEAAFACgAAAAAASAIAICEABAIFJAI=</HashCode>
+      <FileName>shark.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unit">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="Unit::Point" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>unit.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAIhgwAAAYAAAAAIAAABAAAAAYCAAAAAFCAA=</HashCode>
+      <FileName>unit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreatorFish" Collapsed="true">
+    <Position X="9.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>creator_fish.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreatorPlankton" Collapsed="true">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>creator_plankton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreatorShark" Collapsed="true">
+    <Position X="11.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>creator_shark.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="UnitID">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAgAAAAAAAAAEAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>creator.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Colors">
+    <Position X="8.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAnAAQAAQAAIgAAABAAAAAABAAAAAQAAAAACDAAAAA=</HashCode>
+      <FileName>unit.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
